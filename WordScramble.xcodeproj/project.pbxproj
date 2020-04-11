@@ -15,6 +15,7 @@
 		F709DC122441E97700005E76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F709DC102441E97700005E76 /* LaunchScreen.storyboard */; };
 		F709DC1D2441E97700005E76 /* WordScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F709DC1C2441E97700005E76 /* WordScrambleTests.swift */; };
 		F709DC282441E97700005E76 /* WordScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F709DC272441E97700005E76 /* WordScrambleUITests.swift */; };
+		F709DC362441ECFC00005E76 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F709DC352441ECFB00005E76 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F709DC232441E97700005E76 /* WordScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F709DC272441E97700005E76 /* WordScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleUITests.swift; sourceTree = "<group>"; };
 		F709DC292441E97700005E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F709DC352441ECFB00005E76 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F709DC0B2441E97700005E76 /* Assets.xcassets */,
 				F709DC102441E97700005E76 /* LaunchScreen.storyboard */,
 				F709DC132441E97700005E76 /* Info.plist */,
+				F709DC352441ECFB00005E76 /* start.txt */,
 				F709DC0D2441E97700005E76 /* Preview Content */,
 			);
 			path = WordScramble;
@@ -241,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F709DC122441E97700005E76 /* LaunchScreen.storyboard in Resources */,
+				F709DC362441ECFC00005E76 /* start.txt in Resources */,
 				F709DC0F2441E97700005E76 /* Preview Assets.xcassets in Resources */,
 				F709DC0C2441E97700005E76 /* Assets.xcassets in Resources */,
 			);
